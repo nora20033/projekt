@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/nora_jsrs/static/css/main.0787853d.chunk.css",
+    "main.js": "/nora_jsrs/static/js/main.0d6c8e5e.chunk.js",
+    "main.js.map": "/nora_jsrs/static/js/main.0d6c8e5e.chunk.js.map",
+    "runtime-main.js": "/nora_jsrs/static/js/runtime-main.bf66b409.js",
+    "runtime-main.js.map": "/nora_jsrs/static/js/runtime-main.bf66b409.js.map",
+    "static/js/2.9b2fad85.chunk.js": "/nora_jsrs/static/js/2.9b2fad85.chunk.js",
+    "static/js/2.9b2fad85.chunk.js.map": "/nora_jsrs/static/js/2.9b2fad85.chunk.js.map",
+    "index.html": "/nora_jsrs/index.html",
+    "precache-manifest.3a1ba567f75358573a99494f3d411f92.js": "/nora_jsrs/precache-manifest.3a1ba567f75358573a99494f3d411f92.js",
+    "service-worker.js": "/nora_jsrs/service-worker.js",
+    "static/css/main.0787853d.chunk.css.map": "/nora_jsrs/static/css/main.0787853d.chunk.css.map",
+    "static/js/2.9b2fad85.chunk.js.LICENSE.txt": "/nora_jsrs/static/js/2.9b2fad85.chunk.js.LICENSE.txt",
+    "static/media/druga.jpg": "/nora_jsrs/static/media/druga.56fd6323.jpg",
+    "static/media/haii.jpg": "/nora_jsrs/static/media/haii.c30b8b29.jpg",
+    "static/media/jej.jpg": "/nora_jsrs/static/media/jej.2fbbe632.jpg",
+    "static/media/mljett.jpg": "/nora_jsrs/static/media/mljett.6af10df6.jpg",
+    "static/media/treca.jpg": "/nora_jsrs/static/media/treca.d4cfbd9e.jpg",
+    "static/media/zadarr.jpg": "/nora_jsrs/static/media/zadarr.0318a80f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf66b409.js",
+    "static/js/2.9b2fad85.chunk.js",
+    "static/css/main.0787853d.chunk.css",
+    "static/js/main.0d6c8e5e.chunk.js"
+  ]
+}
